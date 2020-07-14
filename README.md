@@ -1,8 +1,9 @@
 # M5stickC-IDF
 
-> ESP-IDF component to work with M5StickC  
-> inf: This item is only available for ESP IDF versions below 3.3  
-> Compiler Environment:esp-idf-v3.2.3  
+> ESP-IDF component to work with M5StickC
+> This version is forward-looking and is tested against ESP IDF version `v4.2-dev`
+> This is the latest stable release as of July, 2020
+> Compiler Environment: ESP-IDF v4.2-dev-1303-gcd4fa46f5
 > TFT lib base [loboris TFT library ](https://github.com/loboris/ESP32_TFT_library)
 
 ---
