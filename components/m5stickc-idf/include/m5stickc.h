@@ -12,6 +12,7 @@
 #include "esp_err.h"
 #include "esp_log.h"
 
+#include "hal/gpio_types.h"
 #include "button.h"
 #include "util/include/wire.h"
 #include "util/include/MPU6886.h"

@@ -261,7 +261,7 @@ void app_main(void)
     font_forceFixed = 0;
     gray_scale = 0;
     TFT_setGammaCurve(DEFAULT_GAMMA_CURVE);
-    TFT_setRotation(LANDSCAPE);
+    TFT_setRotation(LANDSCAPE_FLIP);
     TFT_setFont(SMALL_FONT, NULL);
     TFT_resetclipwin();
 
